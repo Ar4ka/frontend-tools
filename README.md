@@ -10,5 +10,5 @@ Shape Stuff:\
 [Divider](https://www.shapedivider.app)
 
 Animated Stuff: \
-[Animista](https://www.shapedivider.app)\
-[CSS Loaders](https://www.shapedivider.app)
+[Animista](https://animista.net/)\
+[CSS Loaders](https://cssloaders.github.io/)
