@@ -6,11 +6,11 @@ Shadow Stuff: \
 [Neumorphism](https://neumorphism.io/#e0e0e0) \
 [Box Shadow](https://www.cssmatic.com/box-shadow) \
 [Smooth Shadow](https://shadows.brumm.af/) \
-[Multiple Box Shadow Generator](https://htmlcssfreebies.com/box-shadow-generator-multiple/)\
+[Multiple Box Shadow Generator](https://htmlcssfreebies.com/box-shadow-generator-multiple/)
 
 Shape Stuff:\
 [Divider](https://www.shapedivider.app)\
-[getwaves](https://getwaves.io/)\
+[getwaves](https://getwaves.io/)
 
 Animated Stuff: \
 [Animista](https://animista.net/)\
