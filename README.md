@@ -3,9 +3,9 @@
 A collection of cool frontend tools i found
 
 Design Guidelines and Co: \
-[UI Design Tips](https://www.uidesign.tips/ui-tips)
-[Material Design Guidelines](https://m2.material.io/design/guidelines-overview)
-[Apple Human Interface Design](https://developer.apple.com/design/human-interface-guidelines/guidelines/overview/)
+[UI Design Tips](https://www.uidesign.tips/ui-tips) \
+[Material Design Guidelines](https://m2.material.io/design/guidelines-overview) \
+[Apple Human Interface Design](https://developer.apple.com/design/human-interface-guidelines/guidelines/overview/) \
 
 Shadow Stuff: \
 [Neumorphism](https://neumorphism.io/#e0e0e0) \
